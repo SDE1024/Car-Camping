@@ -69,6 +69,3 @@
 
 ### 你整趟旅行目前的截图总里程
 **18,410 miles**
-**Cape Cod → PEI → Cabot Trail → Gros Morne → Montréal → Vermont → Toronto → Niagara Falls → Ohio**
-
-这样会更顺，避免在加拿大东部折返。你的 **18,410 miles 是把所有 Google Maps 截图直接相加的结果**；把这一处重复路线重新优化后，实际总里程应该会低于 18,410 miles。
